@@ -1,4 +1,4 @@
-import src
+from src import utils
 import pytest
 import utils
 

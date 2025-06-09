@@ -1,6 +1,5 @@
 from src.utils import add, sub, mult, div
 import pytest
-import utils
 
 @pytest.mark.parametrize ("a, b, expected ", [(1 , 2 , 3 ) , (2 , 3 ,
 5 ) , (3 , 4 , 7 ) , (4 , -5 , -1 )])
